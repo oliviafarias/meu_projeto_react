@@ -1,21 +1,40 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 1,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "name": "Olivia cafsf",
+      "budget": "231928382",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "farias",
+      "budget": "2371230",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 1,
+      "name": "Planejamento"
+    }
+  ]
 }
