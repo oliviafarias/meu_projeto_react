@@ -1,22 +1,37 @@
 {
   "projects": [
     {
-      "name": "Olivia cafsf",
-      "budget": "231928382",
+      "name": "Design do site",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "Olívia Julliana ",
-      "budget": "454",
+      "name": "Projeto 2",
+      "budget": "283789",
+      "category": {
+        "id": "1",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "920383",
       "category": {
         "id": "1",
         "name": "Infra"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 3
     }
   ],
   "categories": [
